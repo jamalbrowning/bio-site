@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/index.scss';
-import Bio from './components/Bio-Site';
+import BioSite from './components/Bio-Site';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Bio />
+    <BioSite />
   </React.StrictMode>,
   document.getElementById('root'),
 );
