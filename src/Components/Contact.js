@@ -21,13 +21,13 @@ class Contact extends Component {
 
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+               {/* <h1><span>Get In Touch.</span></h1> */}
 
             </div>
 
             <div className="ten columns">
-
-                  <p className="lead">{message}</p>
+                  <h1>Get in touch</h1>
+                  <p className="lead">{message}<a href= "mailto:jamalebrowning@gmail.com">{email}</a></p>
 
             </div>
 
@@ -36,7 +36,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               {/* <form action="contact.php" method="post" encType="multipart/form-data" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -60,7 +60,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     <button className="submit" type="submit" value="Submit">Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
@@ -71,7 +71,7 @@ class Contact extends Component {
            <div id="message-warning"> Error boy</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
-				   </div>
+				   </div> */}
            </div>
 
 
@@ -81,13 +81,12 @@ class Contact extends Component {
 					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
+						   {city}, {state}<br />
 						   <span>{phone}</span>
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
+               {/* <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
                   <ul id="twitter">
                      <li>
@@ -107,7 +106,7 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
-		         </div>
+		         </div> */}
             </aside>
       </div>
    </section>

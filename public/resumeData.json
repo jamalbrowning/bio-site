@@ -4,8 +4,8 @@
     "occupation":"Software Engineer",
     "description":"I am passionate about learning, growing, and giving.",
     "image":"profilepic.png",
-    "bio":"I am a software developer with a passion for developing applications to solve real world problems. I am a full-stack web developer working primarily with React JS, Python Django-Rest, and SQL. My professional background is in project management within the Residential Real Estate field of the construction industry. I have a nact for problem solving and enjoy constantly learning new ways to solve problems.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am a full-stack web developer working primarily with React JS, Python Django-Rest, and SQL. I am passionate about developing applications to solve real-world problems.  My professional background is in project management within the Residential Real Estate field of the construction industry. I have a knack for problem-solving and enjoy consistently learning new ways to solve problems.",
+    "contactmessage":"Feel free to contact me at ",
     "email": "jamalebrowning@gmail.com",
     "phone": "615.308.9986",
     "address":{
@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://linkedin.com/in/jamalbrowning",
+    "resumedownload":"https://drive.google.com/file/d/12vuLt7Mr4yaETgJX4xDj0gb26zwMs2tW/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
