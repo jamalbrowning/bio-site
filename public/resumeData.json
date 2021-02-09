@@ -2,7 +2,7 @@
   "main": {
     "name":"Jamal Browning",
     "occupation":"Software Engineer",
-    "description":"I am passionate about learning, growing, and giving.",
+    "description":"Who has a passion for learning, growing, and giving.",
     "image":"profilepic.png",
     "bio":"I am a full-stack web developer working primarily with React JS, Python Django-Rest, and SQL. I am passionate about developing applications to solve real-world problems.  My professional background is in project management within the Residential Real Estate field of the construction industry. I have a knack for problem-solving and enjoy consistently learning new ways to solve problems.",
     "contactmessage":"Feel free to contact me at ",
@@ -49,9 +49,9 @@
     "education":[
       {
         "school":"Nashville Software School",
-        "degree":"Masters in Beer tasting",
+        "degree":"Software Engineering",
         "graduated":"March 2021",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Applied fundamentals of object-oriented programming through group and individual projects. Utilized asynchronous JavaScript and jQuery methods to interact with external APIs and a local API (JSON server). Gained a firm understanding of workflow technologies using github. Learned and applied principles of entity-relationship diagrams to visualize data structures. Constructed, queried, and manipulated database structures using SQLite3 and postgreSQL.Developed back-end applications and a RESTful API using Python and Django and implemented unit testing suites. Developed Front-End Web Applications using React.js."
       },
       {
         "school":"Florida International University",
@@ -62,16 +62,16 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Nashville Software School",
+        "title":"Software Engineer",
+        "years":"April 2020 - Present",
+        "description":"Intensive part-time 12-month Software Engineering Program learning full-stack technologies through personal and group projects."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"LASU LLC",
+        "title":"Project Manager",
+        "years":"Jan 2017 - Present",
+        "description":"Manage Daily operations and multiple teams of sub-contractors for Residential Remodeling/Building."
       }
     ],
     "skills":[
@@ -88,7 +88,7 @@
         "level":"60%"
       },
       {
-        "name":"CSS",
+        "name":"CSS3",
         "level":"90%"
       },
       {
@@ -110,6 +110,14 @@
       {
         "name":"Javascript",
         "level":"65%"
+      },
+      {
+        "name":"Dbdiagram",
+        "level":"65%"
+      },
+      {
+        "name":"firebase",
+        "level":"50%"
       }
     ]
   },
@@ -117,7 +125,7 @@
     "projects": [
       {
         "title":"qortr",
-        "category":"My front-end capstone",
+        "category":"Easy to use application that generates Covid-friendly Dates",
         "image":"qortr.png",
         "url":"https://www.qortr.com"
       }
@@ -127,11 +135,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text":"That Jamal Browning must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user":"Steve Wozniak... impersonator"
       }
     ]
