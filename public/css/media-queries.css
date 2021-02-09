@@ -187,6 +187,9 @@
 
    /* Header Styles
    -------------------------------------------------------------------- */
+   .sign{
+     font-size: 3.4rem;
+   }
    header .banner {
       padding-bottom: 12px;
       padding-top: 6px;

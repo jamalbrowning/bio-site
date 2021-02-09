@@ -61,16 +61,16 @@ class Header extends Component {
             </li>
           </ul>
         </nav>
-        
-        
+
         <div className="row banner">
           <div className="banner-text">
             {/* <h1 className="responsive-headline"> {name}</h1> */}
-            <div class="sign responsive-headline">
-              <span class="fast-flicker">J</span ><span class="fast-flickers">amal</span>
-               <span class="flicker">&nbsp;&nbsp;B</span>
+            <div className="sign responsive-headline">
+              <span class="fast-flicker">J</span>
+              <span class="fast-flickers">amal</span>
+              <span class="flicker">&nbsp;&nbsp;B</span>
               rowning
-        </div>
+            </div>
             <h3>
               I'm a {city} based <span>{occupation}</span>. {description}.
             </h3>
