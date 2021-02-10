@@ -45,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Nashville Software School",
@@ -71,7 +71,7 @@
         "company":"LASU LLC",
         "title":"Project Manager",
         "years":"Jan 2017 - Present",
-        "description":"Manage Daily operations and multiple teams of sub-contractors for Residential Remodeling/Building."
+        "description":"I managed Remodel Budgets up to $250,000. Designed Interior and Exterior remodel schematics. Organized and ran projects from start to finish. Managed up to 10 sub-contractor teams per project. Maintained and updated progress reports for Executives using Notion(Data/project management). Handled Inspection criteria with Real Estate agents."
       }
     ],
     "skills":[
@@ -127,7 +127,15 @@
         "title":"qortr",
         "category":"Easy to use application that generates Covid-friendly Dates",
         "image":"qortr.png",
-        "url":"https://www.qortr.com"
+        "url":"https://www.qortr.com",
+        "ghub":"https://github.com/jamalbrowning/qortr"
+      },
+      {
+        "title":"Pan-Am",
+        "category":"This an Aviation Dashboard created for the Historic Pan-Am Airways.",
+        "image":"Pan-Am.png",
+        "url":"https://panam-10421.web.app/",
+        "ghub":"https://github.com/jamalbrowning/nutshell-alces"
       }
     
     ]

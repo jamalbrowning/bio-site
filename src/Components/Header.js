@@ -72,7 +72,7 @@ class Header extends Component {
               rowning
             </div>
             <h3>
-              I'm a {city} based <span>{occupation}</span>. {description}.
+              I'm a Filipino/Egyptian that was raised in the Florida and is currently a {city} based <span>{occupation}</span>. {description}.
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
