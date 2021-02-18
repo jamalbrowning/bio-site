@@ -2,9 +2,9 @@
   "main": {
     "name":"Jamal Browning",
     "occupation":"Software Engineer",
-    "description":"Who has a passion for learning, growing, and giving.",
+    "description":"I enjoy working on a team, researching new ways to be more effiecient, playing pickleball, and design.",
     "image":"profilepic.png",
-    "bio":"I am a full-stack web developer working primarily with React JS, Python Django-Rest, and SQL. I am passionate about developing applications to solve real-world problems.  My professional background is in project management within the Residential Real Estate field. I have a knack for problem-solving and enjoy consistently learning new ways to solve problems.",
+    "bio":"My name is Jamal, but most people call me Jim. I am a full-stack web developer working primarily with React JS, Python Django-Rest, and SQL. I am passionate about developing applications to solve real-world problems.  My professional background is in project management within the Residential Real Estate field. I have a knack for problem-solving and enjoy consistently learning new ways to solve problems.",
     "contactmessage":"Feel free to contact me at ",
     "email": "jamalebrowning@gmail.com",
     "phone": "615.308.9986",
@@ -143,8 +143,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"That Jamal Browning must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Jim and I have collaborated together on both frontend and backend projects, and I've really enjoyed being on a team with him. He is a self-disciplined, hard worker who stays on task to get the job done, but he still always makes time to offer help to anyone else in the group when it's needed. Jim has a great eye for design and made our frontend project look so professional with his branding and styling. He is a genuinely kind person who is fun to work with and easy to get along with. Jim would make a great addition to anyone's team.",
+        "user":"Jeanine Beckle - Content Manager @ Talanoa Group"
+      },
+      {
+        "text":"I worked on a team project with Jim and he was fantastic to work with. He wrote clean code that was easy to read and understand. He pitched in and assisted our other team members when they asked for help. He wasn't shy about diving in and taking on extra tickets when he finished his assigned ones showing great initiative. He managed his time well and was able to get alot done.",
+        "user":"Joshua Medlen - Nashville Software School"
       }
     ]
   }
